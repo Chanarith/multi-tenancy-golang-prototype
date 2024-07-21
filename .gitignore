@@ -7,6 +7,10 @@
 *.dll
 *.so
 *.dylib
+*.db
+*.env
+*.env.production
+*.env.development
 
 # Test binary, built with `go test -c`
 *.test
@@ -19,4 +23,3 @@
 
 # Go workspace file
 go.work
-go.work.sum
